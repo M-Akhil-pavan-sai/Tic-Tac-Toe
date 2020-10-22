@@ -17,5 +17,5 @@ Steps to run the game:
 Overview:
 ![alt text](https://github.com/M-Akhil-pavan-sai/Tic-Tac-Toe/blob/main/tic-tac-toe%20ss.png?raw=true)
 
-any doubts ask me via email : "akhilmachavaram@gmail.com"
+any doubts ask me via email : "akhilpavansai74@gmail.com"
 
