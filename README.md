@@ -14,5 +14,8 @@ Steps to run the game:
 2)run the file "SourceCode.py" by typing "python SourceCode.py"
 3)Later play the game on the interactive console
 
+Overview:
+![alt text](https://github.com/M-Akhil-pavan-sai/Tic-Tac-Toe/blob/main/tic-tac-toe%20ss.png?raw=true)
+
 any doubts ask me via email : "akhilmachavaram@gmail.com"
 
